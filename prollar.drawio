@@ -17,7 +17,7 @@
           <mxGeometry height="30" width="90" x="20" y="165" as="geometry" />
         </mxCell>
         <mxCell id="N5m6hX-vNYmEdlEJr6gZ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Estoque" vertex="1">
-          <mxGeometry height="30" width="90" x="296" y="219" as="geometry" />
+          <mxGeometry height="30" width="90" x="296" y="221" as="geometry" />
         </mxCell>
         <mxCell id="N5m6hX-vNYmEdlEJr6gZ-15" edge="1" parent="1" source="N5m6hX-vNYmEdlEJr6gZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="N5m6hX-vNYmEdlEJr6gZ-5">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry height="30" width="90" x="296" y="165" as="geometry" />
         </mxCell>
         <mxCell id="N5m6hX-vNYmEdlEJr6gZ-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Estoque 02" vertex="1">
-          <mxGeometry height="30" width="90" x="296" y="111" as="geometry" />
+          <mxGeometry height="30" width="90" x="296" y="109" as="geometry" />
         </mxCell>
         <mxCell id="N5m6hX-vNYmEdlEJr6gZ-19" edge="1" parent="1" source="N5m6hX-vNYmEdlEJr6gZ-18" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="N5m6hX-vNYmEdlEJr6gZ-5" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
