@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="xQoYsBv-2fpEhx8gxGyC">
-    <mxGraphModel>
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N5m6hX-vNYmEdlEJr6gZ-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Produção" vertex="1">
+          <mxGeometry height="30" width="120" x="130" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="N5m6hX-vNYmEdlEJr6gZ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Almoxerifado" vertex="1">
+          <mxGeometry height="30" width="90" x="70" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N5m6hX-vNYmEdlEJr6gZ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Estoque" vertex="1">
+          <mxGeometry height="30" width="90" x="280" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N5m6hX-vNYmEdlEJr6gZ-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Comercial" vertex="1">
+          <mxGeometry height="30" width="120" x="380" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="N5m6hX-vNYmEdlEJr6gZ-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CD" vertex="1">
+          <mxGeometry height="30" width="90" x="530" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N5m6hX-vNYmEdlEJr6gZ-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Cliente" vertex="1">
+          <mxGeometry height="30" width="120" x="630" y="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
